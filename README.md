@@ -40,3 +40,5 @@
 ## Notes
 - The pipeline aims to be simple and clear for an academic demo.
 - To improve accuracy, replace simple clustering with advanced topic models (e.g., LDA) and use spaCy for better preprocessing.
+## important
+- “If Streamlit cannot be used on your system, run python src/run_analysis.py to produce analysis outputs.”
